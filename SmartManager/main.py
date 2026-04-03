@@ -8,7 +8,7 @@ init()
 def main():
    
     print(Fore.YELLOW)
-    tprint("SmartManager"
+    tprint("SmartManager")
     print(Style.RESET_ALL)
 
    
